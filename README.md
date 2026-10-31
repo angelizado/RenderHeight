@@ -41,7 +41,7 @@ The output is `build/RenderHeight.dll`.
 ## Install and use
 
 1. Close Azimuth.
-2. Extract `TO RELEASE/RenderHeight-setup.zip` into the Azimuth installation folder, merging the `fh2-mods` and `RenderHeight` folders.
+2. Extract `RenderHeight-setup.zip` into the Azimuth installation folder, merging the `fh2-mods` and `RenderHeight` folders.
 3. Start FH2 through Azimuth. The mod is installed but disabled by default.
 4. Open **Pause → Settings → MODS**, enable **Custom launcher height**, and set **Launcher height (px)** to an even value from 360 to 4320. Accept the restart prompt.
 5. Check `fh2-mods/platform.log` for the signature and hook messages. On restart, Azimuth should log the selected render height. The tested value was 540.

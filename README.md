@@ -9,7 +9,7 @@ RenderHeight is an FH2 Mod Platform DLL for Azimuth 1.0.3. It adds one selectabl
 - `scripts/ida_annotate.py` — guarded IDAPython annotations for the verified Azimuth 1.0.3 functions.
 - `settings.ini.example` — default-off example configuration.
 - `artifacts/RenderHeight.dll` — built x64 DLL used in the setup archive.
-- `TO RELEASE/RenderHeight-setup.zip` — install-ready files, separate from the source tree.
+
 
 ## How it works
 
